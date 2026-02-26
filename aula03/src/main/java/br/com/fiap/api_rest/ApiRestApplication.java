@@ -1,13 +1,13 @@
-package com.example.aula03;
+package br.com.fiap.api_rest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Aula03Application {
+public class ApiRestApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Aula03Application.class, args);
+		SpringApplication.run(ApiRestApplication.class, args);
 	}
 
 }
